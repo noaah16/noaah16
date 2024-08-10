@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Noaah
+# 👋 Hey hey, I'm Noaah
 
 I am passionate about developing software & websites and giving precise instructions to the computer. Since 2019, I have been continuously deepening my skills, with a focus on JavaScript and Node.js - technologies I particularly enjoy working with.
 
