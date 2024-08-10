@@ -7,7 +7,7 @@ I am passionate about developing software & websites and giving precise instruct
 ### Drawlie
 Drawlie is a platform for artists and creatives to upload content and receive feedback from other users. In the future, Drawlie will be a platform where users can be inspired, collaborate, support each other and develop their creative skills.
 - **Technologies:** React, NextJS, Java, JavaScript, NodeJS
-- **Link to the project:**
+- **Link to the project:** [https://drawlie.net/](https://drawlie.net/)
 
 ### Ameliebot
 Amelie was a server management bot for Discord servers with features like welcome message, join roles, reaction roles, purge channels, and fun commands & games.
