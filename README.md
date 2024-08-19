@@ -11,7 +11,7 @@ Drawlie is a platform for artists and creatives to upload content and receive fe
 
 ### Ameliebot
 Amelie was a server management bot for Discord servers with features like welcome message, join roles, reaction roles, purge channels, and fun commands & games.
-- **Technologies:** NextJS
+- **Technologies:** Node.JS
 
 ## 📫 Contact
 - **E-Mail:** noaah@drawlie.net
